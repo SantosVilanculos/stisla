@@ -13,4 +13,3 @@ The contribution guide is still in progress :)
 
 # License
 Stisla is under the MIT license
-
