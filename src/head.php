@@ -20,4 +20,32 @@
     <!-- Template CSS -->
     <link rel="stylesheet" href="assets/css/style.css"/>
     <link rel="stylesheet" href="assets/css/components.css"/>
+
+      <!-- General JS Scripts -->
+  <script src="assets/modules/jquery.min.js" defrer></script>
+  <script src="assets/modules/popper.js" defrer></script>
+  <script src="assets/modules/tooltip.js" defrer></script>
+  <script src="assets/modules/bootstrap/js/bootstrap.min.js" defrer></script>
+  <script src="assets/modules/nicescroll/jquery.nicescroll.min.js" defrer></script>
+  <script src="assets/modules/moment.min.js" defrer></script>
+  <script src="assets/js/stisla.js" defrer></script>
+  <!-- /General JS Scripts -->
+
+  <!-- JS Libraies -->
+  <script src="assets/modules/simple-weather/jquery.simpleWeather.min.js" defrer></script>
+  <script src="assets/modules/chart.min.js"  defrer></script>
+  <script src="assets/modules/jqvmap/dist/jquery.vmap.min.js"  defrer></script>
+  <script src="assets/modules/jqvmap/dist/maps/jquery.vmap.world.js" defrer></script>
+  <script src="assets/modules/summernote/summernote-bs4.js" defrer></script>
+  <script src="assets/modules/chocolat/dist/js/jquery.chocolat.min.js" defrer></script>
+  <!-- /JS Libraies -->
+
+  <!-- Page Specific JS File -->
+  <script src="assets/js/page/index-0.js" defrer></script>
+  <!-- /Page Specific JS File -->
+
+  <!-- Template JS File -->
+  <script src="assets/js/scripts.js" defrer></script>
+  <script src="assets/js/custom.js" defrer></script>
+  <!--  JS File -->
 </head>

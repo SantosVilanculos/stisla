@@ -27,10 +27,10 @@ include_once __DIR__ . '/../head.php'
         <div class="main-content">
             <section class="section">
                 <div class="section-header">
-                    <h1>Usuário</h1>
+                    <h1>Produto</h1>
                     <div class="section-header-breadcrumb">
                         <div class="breadcrumb-item active"><a href="dashboard.php">Dashboard</a></div>
-                        <div class="breadcrumb-item">Usuário</div>
+                        <div class="breadcrumb-item">Produto</div>
                     </div>
                 </div>
                 <div class="row">
@@ -135,34 +135,6 @@ include_once __DIR__ . '/../head.php'
         <!-- /Footer -->
     </div>
 </div>
-
-<!-- General JS Scripts -->
-<script src="assets/modules/jquery.min.js"></script>
-<script src="assets/modules/popper.js"></script>
-<script src="assets/modules/tooltip.js"></script>
-<script src="assets/modules/bootstrap/js/bootstrap.min.js"></script>
-<script src="assets/modules/nicescroll/jquery.nicescroll.min.js"></script>
-<script src="assets/modules/moment.min.js"></script>
-<script src="assets/js/stisla.js"></script>
-<!-- /General JS Scripts -->
-
-<!-- JS Libraies -->
-<script src="assets/modules/simple-weather/jquery.simpleWeather.min.js"></script>
-<script src="assets/modules/chart.min.js"></script>
-<script src="assets/modules/jqvmap/dist/jquery.vmap.min.js"></script>
-<script src="assets/modules/jqvmap/dist/maps/jquery.vmap.world.js"></script>
-<script src="assets/modules/summernote/summernote-bs4.js"></script>
-<script src="assets/modules/chocolat/dist/js/jquery.chocolat.min.js"></script>
-<!-- /JS Libraies -->
-
-<!-- Page Specific JS File -->
-<script src="assets/js/page/index-0.js"></script>
-<!-- /Page Specific JS File -->
-
-<!-- Template JS File -->
-<script src="assets/js/scripts.js"></script>
-<script src="assets/js/custom.js"></script>
-<!--  JS File -->
 </body>
 
 </html>
