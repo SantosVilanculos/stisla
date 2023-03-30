@@ -83,10 +83,6 @@ include_once __DIR__ . '/../head.php'
                                                   <?php echo $i['price'] ?>
                                                 </td>
                                                 <td>
-                                                    <a href="product/reset-password.php"
-                                                       class="btn btn-primary btn-action mr-1" data-toggle="tooltip"
-                                                       title="" data-original-title="Reset Password"><i
-                                                                class="fas fa-lock"></i></a>
                                                     <a href="product/edit.php?id=<?php echo $i['product_id'] ?>"
                                                        class="btn btn-primary btn-action mr-1"
                                                        data-toggle="tooltip" title="" data-original-title="Edit"><i
